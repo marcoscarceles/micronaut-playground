@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.playground
+---
+testFramework: spek
+sourceLanguage: kotlin
